@@ -8,6 +8,7 @@ dependencies = [
     "requests>=2.32.4",
     "rich>=14.0.0",
     "ruff>=0.12.3",
+    "ty>=0.0.1a14",
 ]
 
 [tool.ruff]
