@@ -48,3 +48,4 @@ Useful links:
 
 - https://docs.astral.sh/uv/
 - https://docs.astral.sh/ruff/
+- https://docs.astral.sh/ruff/rules/
