@@ -1,4 +1,4 @@
-# 🐍 Python Project Template with uv & Ruff
+# 🐍 Python Project Template with uv, Ruff & ty
 
 Welcome! This is a minimal Python project template to help you write clean, manageable Python code with uv, Ruff, and ty.
 
