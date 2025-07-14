@@ -1,6 +1,6 @@
 # 🐍 Python Project Template with uv & Ruff
 
-Welcome! This is a minimal Python project template to help you write clean, manageable Python code with uv and Ruff.
+Welcome! This is a minimal Python project template to help you write clean, manageable Python code with uv, Ruff, and ty.
 
 ---
 
@@ -44,8 +44,17 @@ To format files, run:
 uvx ruff format
 ```
 
+### Type checking with ty
+
+To type check files, run:
+
+```
+uvx ty check
+```
+
 Useful links:
 
 - https://docs.astral.sh/uv/
 - https://docs.astral.sh/ruff/
 - https://docs.astral.sh/ruff/rules/
+- https://docs.astral.sh/ty/
