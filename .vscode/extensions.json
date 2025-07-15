@@ -4,6 +4,7 @@
     "charliermarsh.ruff",
     "esbenp.prettier-vscode",
     "ms-python.debugpy",
-    "ms-python.python"
+    "ms-python.python",
+    "ms-toolsai.jupyter"
   ]
 }
