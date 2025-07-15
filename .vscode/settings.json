@@ -1,9 +1,4 @@
 {
-  // "python.analysis.autoImportCompletions": true,
-  // "python.analysis.autoFormatStrings": true,
-  // "python.analysis.completeFunctionParens": true,
-  // "python.analysis.autoIndent": true,
-
   "[python]": {
     "editor.formatOnType": true,
     "editor.formatOnSave": true,
